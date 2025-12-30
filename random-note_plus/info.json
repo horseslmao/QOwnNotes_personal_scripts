@@ -1,0 +1,9 @@
+{
+	"name": "Random note plus",
+	"identifier": "random-note_plus",
+	"script": "random-note_plus.qml",
+	"authors": ["@dohliam", "@horses_lmao"],
+	"version": "1.0",
+	"minAppVersion": "20.4.16",
+	"description": "This script creates a menu item and a button to jump to a random note from the collection, or a random note in the current folder"
+}

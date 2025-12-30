@@ -1,0 +1,10 @@
+title: "title"
+author: "title contributors"
+mainfont: "Verdana"
+monofont: "Monaspace Argon"
+mainfontfallback: 
+ - "Segoe UI:"
+ - "Segoe UI Emoji:mode=harf"
+ - "Segoe UI Symbol:mode=harf"
+ - "Segoe UI Historic:"
+pdf-engine: lualatex

@@ -1,0 +1,18 @@
+{
+	"/": {
+		"mainheader": "# 📁 ➜ Welcome to the r/residentsofdisaster **Wiki**",
+		"footer": "\n\n\n&nbsp;\n\n___\n&nbsp;\n# **📕 ❮ Return to [r/residentsofdisaster](https://www.reddit.com/r/residentsofdisaster/)**\n"
+	},
+	"/index": {
+		"mainheader": "# 📁 ➜ [index](../index.md) / ",
+		"footer": "\n\n\n&nbsp;\n\n___\n&nbsp;\n# **📕 ❮ Return to [r/residentsofdisaster](https://www.reddit.com/r/residentsofdisaster/)**\n# **📗 ❮ Return to [Wiki](../index.md)**\n"
+	},
+	"/index/Disasters": {
+		"mainheader": "# 📁 ➜ [index](../../index.md) / [Disasters](../Disasters.md) / ",
+		"footer": "\n\n\n&nbsp;\n\n___\n&nbsp;\n# **📕 ❮ Return to [r/residentsofdisaster](https://www.reddit.com/r/residentsofdisaster/)**\n# **📗 ❮ Return to [Wiki](../../index.md)**\n"
+	},
+	"/index/Organizations": {
+		"mainheader": "# 📁 ➜ [index](../../index.md) / [Organizations](../Organizations.md) / ",
+		"footer": "\n\n\n&nbsp;\n\n___\n&nbsp;\n# **📕 ❮ Return to [r/residentsofdisaster](https://www.reddit.com/r/residentsofdisaster/)**\n# **📗 ❮ Return to [Wiki](../../index.md)**\n"
+	}
+}

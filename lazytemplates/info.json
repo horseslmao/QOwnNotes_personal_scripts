@@ -1,0 +1,10 @@
+{
+  "name": "Lazy Templates",
+  "identifier": "lazytemplates",
+  "script": "lazytemplates.qml",
+  "authors": ["@horses_lmao"],
+  "platforms": ["linux", "macos", "windows"],
+  "version": "0.0.2",
+  "minAppVersion": "25.9.3",
+  "description": "Allows you to use a lookup table for Url Replacement and use templates for header+footer sections in the preview pane. Looks for the urls inthe _data subfolder of the root directory, and templates from the current folder."
+}

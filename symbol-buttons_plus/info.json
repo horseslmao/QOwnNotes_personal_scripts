@@ -1,0 +1,10 @@
+{
+  "name": "Insert symbol buttons",
+  "identifier": "symbol-buttons_plus",
+  "script": "symbol-buttons_plus.qml",
+  "authors": ["@Maboroshy", "@horses_lmao"],
+  "platforms": ["linux", "macos", "windows"],
+  "version": "0.0.1",
+  "minAppVersion": "17.05.8",
+  "description": "This script adds toolbar buttons to insert characters set in script options"
+}
